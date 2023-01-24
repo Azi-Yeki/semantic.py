@@ -12,5 +12,5 @@
 #### To install, you have to download the files from Github to your local drive.
 #### Use "pip3 install spacy" to install spaCy on your PC.
 #### To download the English models, type "python3 -m spacy download en_core_web_sm" in your terminal
-#### After loading the first one, load the second one using "python3 -m spacy download en_core_web_sm"
+#### After loading the first one, load the second one using "python3 -m spacy download en_core_web_md"
 #### open semantic.py in your preferred IDE (Visual Studio Code, PyCharm, etc.) and run it.
